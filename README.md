@@ -1,0 +1,1 @@
+# plugins-photospace-responsive
